@@ -1,0 +1,8 @@
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW2\HakanHW2\HakanHW2_ConsoleApp_SwitchCalculator\bin\Debug\HakanHW2_ConsoleApp_SwitchCalculator.exe.config
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW2\HakanHW2\HakanHW2_ConsoleApp_SwitchCalculator\bin\Debug\HakanHW2_ConsoleApp_SwitchCalculator.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW2\HakanHW2\HakanHW2_ConsoleApp_SwitchCalculator\bin\Debug\HakanHW2_ConsoleApp_SwitchCalculator.pdb
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW2\HakanHW2\HakanHW2_ConsoleApp_SwitchCalculator\obj\Debug\HakanHW2_ConsoleApp_SwitchCalculator.csproj.AssemblyReference.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW2\HakanHW2\HakanHW2_ConsoleApp_SwitchCalculator\obj\Debug\HakanHW2_ConsoleApp_SwitchCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW2\HakanHW2\HakanHW2_ConsoleApp_SwitchCalculator\obj\Debug\HakanHW2_ConsoleApp_SwitchCalculator.csproj.CoreCompileInputs.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW2\HakanHW2\HakanHW2_ConsoleApp_SwitchCalculator\obj\Debug\HakanHW2_ConsoleApp_SwitchCalculator.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW2\HakanHW2\HakanHW2_ConsoleApp_SwitchCalculator\obj\Debug\HakanHW2_ConsoleApp_SwitchCalculator.pdb

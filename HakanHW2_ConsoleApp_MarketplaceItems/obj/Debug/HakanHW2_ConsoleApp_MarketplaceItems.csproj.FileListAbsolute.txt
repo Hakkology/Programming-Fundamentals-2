@@ -1,0 +1,8 @@
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW2\HakanHW2\HakanHW2_ConsoleApp_MarketplaceItems\obj\Debug\HakanHW2_ConsoleApp_MarketplaceItems.csproj.AssemblyReference.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW2\HakanHW2\HakanHW2_ConsoleApp_MarketplaceItems\obj\Debug\HakanHW2_ConsoleApp_MarketplaceItems.csproj.SuggestedBindingRedirects.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW2\HakanHW2\HakanHW2_ConsoleApp_MarketplaceItems\obj\Debug\HakanHW2_ConsoleApp_MarketplaceItems.csproj.CoreCompileInputs.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW2\HakanHW2\HakanHW2_ConsoleApp_MarketplaceItems\bin\Debug\HakanHW2_ConsoleApp_MarketplaceItems.exe.config
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW2\HakanHW2\HakanHW2_ConsoleApp_MarketplaceItems\bin\Debug\HakanHW2_ConsoleApp_MarketplaceItems.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW2\HakanHW2\HakanHW2_ConsoleApp_MarketplaceItems\bin\Debug\HakanHW2_ConsoleApp_MarketplaceItems.pdb
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW2\HakanHW2\HakanHW2_ConsoleApp_MarketplaceItems\obj\Debug\HakanHW2_ConsoleApp_MarketplaceItems.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW2\HakanHW2\HakanHW2_ConsoleApp_MarketplaceItems\obj\Debug\HakanHW2_ConsoleApp_MarketplaceItems.pdb

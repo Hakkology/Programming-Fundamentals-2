@@ -1,0 +1,8 @@
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW2\HakanHW2\HakanHW2_ConsoleApp_Area-Perimeter\obj\Debug\HakanHW2_ConsoleApp_Area-Perimeter.csproj.AssemblyReference.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW2\HakanHW2\HakanHW2_ConsoleApp_Area-Perimeter\obj\Debug\HakanHW2_ConsoleApp_Area-Perimeter.csproj.SuggestedBindingRedirects.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW2\HakanHW2\HakanHW2_ConsoleApp_Area-Perimeter\obj\Debug\HakanHW2_ConsoleApp_Area-Perimeter.csproj.CoreCompileInputs.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW2\HakanHW2\HakanHW2_ConsoleApp_Area-Perimeter\bin\Debug\HakanHW2_ConsoleApp_Area-Perimeter.exe.config
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW2\HakanHW2\HakanHW2_ConsoleApp_Area-Perimeter\bin\Debug\HakanHW2_ConsoleApp_Area-Perimeter.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW2\HakanHW2\HakanHW2_ConsoleApp_Area-Perimeter\bin\Debug\HakanHW2_ConsoleApp_Area-Perimeter.pdb
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW2\HakanHW2\HakanHW2_ConsoleApp_Area-Perimeter\obj\Debug\HakanHW2_ConsoleApp_Area-Perimeter.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW2\HakanHW2\HakanHW2_ConsoleApp_Area-Perimeter\obj\Debug\HakanHW2_ConsoleApp_Area-Perimeter.pdb

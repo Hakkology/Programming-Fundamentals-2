@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HakanHW2_ConsoleApp_Ifelse", "HakanHW2_ConsoleApp_Application\HakanHW2_ConsoleApp_Ifelse.csproj", "{BAE45E6F-AFB1-45E5-AC33-12B64446E25A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HakanHW2_ConsoleApp_SwitchCalculator", "HakanHW2_ConsoleApp_SwitchCalculator\HakanHW2_ConsoleApp_SwitchCalculator.csproj", "{3A33D9BB-E8CD-43EF-A02F-C9EF4EA33880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HakanHW2_ConsoleApp_Area-Perimeter", "HakanHW2_ConsoleApp_Area-Perimeter\HakanHW2_ConsoleApp_Area-Perimeter.csproj", "{5945691A-8850-451C-A9A7-FADB0229BFD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HakanHW2_ConsoleApp_MarketplaceItems", "HakanHW2_ConsoleApp_MarketplaceItems\HakanHW2_ConsoleApp_MarketplaceItems.csproj", "{707BFB54-DEA5-4022-A440-84EBEBC04391}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAE45E6F-AFB1-45E5-AC33-12B64446E25A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAE45E6F-AFB1-45E5-AC33-12B64446E25A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAE45E6F-AFB1-45E5-AC33-12B64446E25A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAE45E6F-AFB1-45E5-AC33-12B64446E25A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A33D9BB-E8CD-43EF-A02F-C9EF4EA33880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A33D9BB-E8CD-43EF-A02F-C9EF4EA33880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A33D9BB-E8CD-43EF-A02F-C9EF4EA33880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A33D9BB-E8CD-43EF-A02F-C9EF4EA33880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5945691A-8850-451C-A9A7-FADB0229BFD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5945691A-8850-451C-A9A7-FADB0229BFD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5945691A-8850-451C-A9A7-FADB0229BFD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5945691A-8850-451C-A9A7-FADB0229BFD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{707BFB54-DEA5-4022-A440-84EBEBC04391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{707BFB54-DEA5-4022-A440-84EBEBC04391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{707BFB54-DEA5-4022-A440-84EBEBC04391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{707BFB54-DEA5-4022-A440-84EBEBC04391}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {787B2A1E-D166-4C29-8BF2-65EACEA8D30C}
+	EndGlobalSection
+EndGlobal
